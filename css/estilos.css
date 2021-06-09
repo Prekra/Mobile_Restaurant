@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+
+
+
+.descripcion{
+
+    font-size: 36px;
+    letter-spacing: 2px;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+.descripcion2{
+    letter-spacing: 1px;
+    font-family: 'Roboto', sans-serif;
+  
+}
+
+.titulo{
+text-align: center;
+letter-spacing: 2px;
+   
+}
+
+body{
+    background: black;
+    background-size: cover;
+    
+}
+
